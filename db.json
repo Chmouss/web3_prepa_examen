@@ -1,0 +1,36 @@
+{
+    "playlists": [
+        {
+            "name": "80's Hits",
+            "createdDate": "2022-02-27T15:38:33.177+00:00",
+            "owner": "nostalgica27"
+        },
+        {
+            "name": "Totally Stress Free",
+            "createdDate": "2022-03-17T10:27:15.187+00:00",
+            "owner": "zennity"
+        },
+        {
+            "name": "Wake Up Happy",
+            "createdDate": "2022-01-02T10:17:35.457+00:00",
+            "owner": "dodo"
+        }
+    ],
+    "songs": [
+        {
+            "playlist": "METTEZ ICI L'ID DE 80's Hits",
+            "title": "Take on Me",
+            "artist": "a-ha"
+        },
+        {
+            "playlist": "METTEZ ICI L'ID DE 80's Hits",
+            "title": "Tainted Love",
+            "artist": "Soft Cell"
+        },
+        {
+            "playlist": "METTEZ ICI L'ID DE 80's Hits",
+            "title": "Golden Brown",
+            "artist": "The Stranglers"
+        }
+    ]
+}

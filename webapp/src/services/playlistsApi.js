@@ -1,0 +1,7 @@
+const retrieveAll = () => {
+}
+
+
+export {
+    retrieveAll
+}
