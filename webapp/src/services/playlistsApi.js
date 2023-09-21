@@ -1,7 +1,0 @@
-const retrieveAll = () => {
-}
-
-
-export {
-    retrieveAll
-}

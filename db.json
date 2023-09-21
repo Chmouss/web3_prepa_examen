@@ -1,36 +1,42 @@
 {
-    "playlists": [
+    "games": [
         {
-            "name": "80's Hits",
-            "createdDate": "2022-02-27T15:38:33.177+00:00",
-            "owner": "nostalgica27"
+            "name": "Pandemic",
+            "price": 25.5,
+            "stock": 5
         },
         {
-            "name": "Totally Stress Free",
-            "createdDate": "2022-03-17T10:27:15.187+00:00",
-            "owner": "zennity"
+            "name": "Scythe",
+            "price": 53,
+            "stock": 2
         },
         {
-            "name": "Wake Up Happy",
-            "createdDate": "2022-01-02T10:17:35.457+00:00",
-            "owner": "dodo"
+            "name": "Teera Mstica",
+            "price": 45.89,
+            "stock": 7
         }
     ],
-    "songs": [
+    "sales": [
         {
-            "playlist": "METTEZ ICI L'ID DE 80's Hits",
-            "title": "Take on Me",
-            "artist": "a-ha"
+            "buyer": "Camille",
+            "date": "2021-01-02T10:17:35.457+00:00",
+            "quantity": 1,
+            "total": 25.5,
+            "game": "64d9096a9558e9b498469340"
         },
         {
-            "playlist": "METTEZ ICI L'ID DE 80's Hits",
-            "title": "Tainted Love",
-            "artist": "Soft Cell"
+            "buyer": "Laurent",
+            "date": "2022-01-02T13:26:15.457+00:00",
+            "quantity": 1,
+            "total": 25.5,
+            "game": "64d9096a9558e9b498469341"
         },
         {
-            "playlist": "METTEZ ICI L'ID DE 80's Hits",
-            "title": "Golden Brown",
-            "artist": "The Stranglers"
+            "buyer": "Laurent",
+            "date": "2023-01-02T15:49:27.457+00:00",
+            "quantity": 1,
+            "total": 25.5,
+            "game": "64d9096a9558e9b498469342"
         }
     ]
 }

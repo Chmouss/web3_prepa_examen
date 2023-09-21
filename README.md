@@ -2,7 +2,7 @@
 
 ## Base de données
 
-L'API à besoin d'une base de données contenant 2 collections : `playlists` et `songs`.
+L'API à besoin d'une base de données contenant 2 collections : `games` et `sales`.
 Pour cela, utilisez MongoBD Atlas.
 Un fichier db.json est disponible avec des données de test.
 

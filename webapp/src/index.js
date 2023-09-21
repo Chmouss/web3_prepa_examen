@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App';
 
 import 'index.css'
+import AppLoader from 'components/App/AppLoader';
 
 
 ReactDOM.render(
-  <App />,
+    <AppLoader />,
   document.getElementById('root')
 );
